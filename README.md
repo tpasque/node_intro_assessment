@@ -45,3 +45,23 @@ http.listen(8000, function() {
 * G) change *http.createServer(res)* to  *http.createServer(showTime)* and change *http.listen* to *server.listen*
 * H) change *text/plain* to *text/html*
 * I) none of the above
+* J) leave me alone. 
+
+###4. Consider the following code from boxes.js , which is required by another file.  What **DATA TYPE** type will be returned from module.exports in this file? 
+```
+var boxes = ["cardboard", "plastic", "metal"]
+
+module.exports = function(){
+  return boxes;
+}
+
+```
+
+* A) a string
+* B) a function
+* C) an array
+* D) none of the above
+* E) all of the above
+
+###5. What do we mean when we say that Node has a single-threaded , non-blocking IO model ?  (free response) . Give an example from class if you can remember it, or any other example of how this can work. 
+
