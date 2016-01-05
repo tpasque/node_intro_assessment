@@ -62,6 +62,7 @@ module.exports = function(){
 * C) an array
 * D) none of the above
 * E) all of the above
+* F) nothing, due to an error caused by lack of semi-colon the first line, suckas
 
 ###5. What do we mean when we say that Node has a non-blocking IO model ?  (free response) . Give an example from class if you can remember it, or any other example of how this can work. 
 
