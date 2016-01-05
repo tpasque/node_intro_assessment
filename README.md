@@ -1,4 +1,4 @@
-### 1.  Which browser does Node share a runtime with?
+#### 1.  Which browser does Node share a runtime with?
 * A) V8
 * B) All browsers
 * C) Chrome
@@ -7,7 +7,7 @@
 * F) Firefox
 * G) None of the above
 
-### 2.  Which of the following code in a js file will include a core module named 'fs' ?   
+#### 2.  Which of the following code in a js file will include a core module named 'fs' ?   
 * A) npm install fs 
 * B) include('./fs')
 * C) require('./fs')
@@ -16,7 +16,7 @@
 * F) include(fs)
 * G) include('fs')
 
-### 3.  The below code is an attempt to run a simple Node.js server. The server fails to start. Without seeing the server error message, what can you fix in the code to make the server run ? 
+#### 3.  The below code is an attempt to run a simple Node.js server. The server fails to start. Without seeing the server error message, what can you fix in the code to make the server run ? 
 
 ```
 var http = require('http');
