@@ -1,3 +1,6 @@
+## Instructions: 
+Fork and clone this repo.  Then submit a pull request with all of the bad answers deleted and only the correct answers showing. 
+
 #### 1.  Which browser does Node share a runtime with?
 * A) V8
 * B) All browsers
