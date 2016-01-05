@@ -16,6 +16,8 @@
 * F) include(fs)
 * G) include('fs')
 
+## 3.  The above code is an attempt to run a simple Node.js server. The server fails to start. Without seeing the server error message, what can you fix in the code to make the server run ? 
+
 ```
 var http = require('http');
 
@@ -33,8 +35,6 @@ http.listen(8000, function() {
 });
 
 ```
-
-## 3.  The above code is an attempt to run a simple Node.js server. The server fails to start. Without seeing the server error message, what can you fix in the code to make the server run ? 
 
 * A) change *require('http')* to *include('http')*
 * B) change *var http* to simply *http* 
