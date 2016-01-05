@@ -63,5 +63,5 @@ module.exports = function(){
 * D) none of the above
 * E) all of the above
 
-###5. What do we mean when we say that Node has a single-threaded , non-blocking IO model ?  (free response) . Give an example from class if you can remember it, or any other example of how this can work. 
+###5. What do we mean when we say that Node has a non-blocking IO model ?  (free response) . Give an example from class if you can remember it, or any other example of how this can work. 
 
